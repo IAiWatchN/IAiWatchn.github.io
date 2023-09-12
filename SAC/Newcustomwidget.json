@@ -1,6 +1,6 @@
 {
 	"name": "mycustomwidget",
-	"description": "Hello World",
+	"description": "Gantt",
 	"newInstancePrefix": "mycustomwidget",
 	"eula": "",
 	"vendor": "Krishna",
