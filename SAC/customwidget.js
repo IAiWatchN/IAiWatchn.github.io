@@ -1,10 +1,3 @@
-import FusionCharts from "fusioncharts";
-import Charts from "fusioncharts/fusioncharts.charts";
-import FusionTheme from "fusioncharts/themes/fusioncharts.theme.fusion";
-
-// Add the chart and theme as dependency
-FusionCharts.addDep(Charts);
-FusionCharts.addDep(FusionTheme);
 
 const dataSource = {
   chart: {
